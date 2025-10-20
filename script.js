@@ -5,7 +5,7 @@ const messageDisplay = document.getElementById('message');
 
 const TILE_COUNT = 9;
 const GRID_SIZE = 3;
-const IMAGE_URL = 'https://assets.codepen.io/296057/panda.jpg';
+const IMAGE_URL = 'panda.jpg';
 
 let tiles = [];
 let emptyTileIndex = 8;
